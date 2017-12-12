@@ -35,7 +35,10 @@ Client/server communication for library management systems application.
 </br>
 <p align="center">
   <img src="https://lh3.googleusercontent.com/-89SOa1CJAA8/WjBVBKnF1pI/AAAAAAAADdo/QLaK3lm-aPIeFygPND0r_eDpS8FLCdGsgCL0BGAs/w530-d-h739-n-rw/eighthScreen.png" />
-
+</br>
+</br>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-SJTyx0HWJH8/WjBVgNhJeSI/AAAAAAAADd8/yfJV2_R3jVwv2J5diapf3P0dYUIu5hv-ACL0BGAs/w530-d-h654-n-rw/ninethScreen.png" />
 
 
 
