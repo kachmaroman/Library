@@ -30,10 +30,6 @@ Client/server communication for library management systems application.
 </br>
 </br>
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/-MQjc51hZMLg/WjBT3_Laz6I/AAAAAAAADcM/5hu8BNzsF4g_rjdAUQ4oq9V7FE_Br2ZtgCL0BGAs/w530-d-h526-n-rw/sixthScreen.png" />
-</br>
-</br>
-<p align="center">
   <img src="https://lh3.googleusercontent.com/-cewdt2rE5ws/WjBT7lXiZSI/AAAAAAAADcg/NgFpD1cxYdQhk4mL5fpI6ifsfDKv_OcmgCL0BGAs/w530-d-h686-n-rw/seventhScreen.png" />
   
   
