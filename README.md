@@ -43,14 +43,23 @@ Client/server communication for library management systems application.
 </br>
 <p align="center">
   <img src="https://lh3.googleusercontent.com/-6dZzQ_f16dk/WjBV5cn7DFI/AAAAAAAADeY/LBFnQUEgDbUGvGJHIRkFCFDTYqwffjI9ACL0BGAs/w530-d-h783-n-rw/tenthScreen.png" />
-
-
-
-
-
-
-
-
-
-
-
+</br>
+</br>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-P-Rm-CmKr3M/WjBWa6gKQCI/AAAAAAAADe4/uaY6XyxNQ6s8Z_z-B83UW26ANWKM8zFnQCL0BGAs/w530-d-h757-n-rw/eleventhScreen.png" />
+</br>
+</br>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-mJu-JjyyJ7I/WjBW1CBrPzI/AAAAAAAADfo/-PPecGrS6cUY92X8FdEKBf7TExMhI_AGQCL0BGAs/w530-d-h791-n-rw/twelfthScreen.png" />
+</br>
+</br>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-QZi02rNcxK8/WjBXPDVE_cI/AAAAAAAADgQ/We6n9qsyKDQPHs9khQQAQ6HSb_LcE414QCL0BGAs/w530-d-h815-n-rw/thirteenthScreen.png" />
+</br>
+</br>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-qRIf_-bVdhM/WjBXlvh9LyI/AAAAAAAADgs/C5BK9RV2Sy878wTAv340CgOOJKCXm5J6QCL0BGAs/w530-d-h787-n-rw/fourteenthScreen.png" />
+</br>
+</br>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-9zLocBbUDL8/WjBYC23iyaI/AAAAAAAADhI/wLInHrr8poIZO5NbnsWdfyPqmNfZPXEuQCL0BGAs/w530-d-h231-n-rw/fifteenthScreen.png" />
